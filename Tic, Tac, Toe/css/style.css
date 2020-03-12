@@ -1,0 +1,14 @@
+.row {
+  margin: 0 auto;
+}
+
+.row .btn {
+    width: 5rem;
+    height: 5rem;
+    font-size: 2.5rem;
+    margin: 0.25rem;
+}
+
+#border {
+  border: 1px solid black;
+}
